@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [The_Vet_clinic] <a name="about-project">The project involves creating a database called vet_clinic and a table animals in postgresql using sql shell terminal</a>
+# 📖 [The_Vet_clinic] <a name="about-project">This project involves querying multiple tables in postgresql via sql shell terminal</a>
 
 > Describe your project in 1 or 2 sentences.
 
